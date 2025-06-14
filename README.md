@@ -191,7 +191,7 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=KARSTERR&label=Profile%20Views&color=brightgreen&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/KARSTERR?label=Followers&style=social" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/followers/Valiarkk?label=Followers&style=social" alt="GitHub followers" />
 </div>
 
 ---
